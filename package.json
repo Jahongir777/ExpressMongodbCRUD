@@ -1,0 +1,25 @@
+{
+  "name": "ExpressMongodbCRUD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahongir777/ExpressMongodbCRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahongir777/ExpressMongodbCRUD/issues"
+  },
+  "homepage": "https://github.com/Jahongir777/ExpressMongodbCRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mongoose": "^5.12.9"
+  }
+}
